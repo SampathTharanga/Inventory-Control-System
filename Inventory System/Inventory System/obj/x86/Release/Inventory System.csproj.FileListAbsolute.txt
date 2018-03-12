@@ -1,0 +1,301 @@
+E:\Version 1.0 original all k\Inventory System\Inventory System\bin\Release\Inventory System.exe.config
+E:\Version 1.0 original all k\Inventory System\Inventory System\bin\Release\InventoryDB.mdf
+E:\Version 1.0 original all k\Inventory System\Inventory System\bin\Release\InventoryDB_log.ldf
+E:\Version 1.0 original all k\Inventory System\Inventory System\bin\Release\Inventory System.exe
+E:\Version 1.0 original all k\Inventory System\Inventory System\bin\Release\Inventory System.pdb
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.About_Sharp_Creations.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Bill_non_reg.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Uc_recovary.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Main_account.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_sal_history.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_sal_Month.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_Sallery.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Change_saery_target.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Advance_Customer.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Month_payroll.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.paysheet_histry.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Paysheet_month.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Tget_settings.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOdr1.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOdr2.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Set_ref_salary_taget.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.update_User_Dtail.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Item_change_Conform.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_reqst_odr.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Report_main.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceivedStock.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_StockLeval.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_CusOrder.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_CustomerList.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItemList.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOrder.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReturnItem.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_SalesRefList.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_SupplierList.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_WarrantyItem.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_PriceList.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales1.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales2.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales3.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income1.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income2.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceiveStock1.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceiveStock2.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Froget_Login.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.User_Details.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_admin_detail.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Return_stock_item.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Return_New_item.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Warranty.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Customer_Account.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_findItem.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoic_findCus.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_Details.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Receive_Stock.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edti_Items.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Item_Details.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Manage_Item_details.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Log_main.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Customer_order.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Receive_Strock.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Customer.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Supplier.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Request_Order.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Supplier.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_customer.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Items.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Bill.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_Customer.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_Invoice.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_item.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_Histry.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Supplier_Account.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.updte_cus_order.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.AdministratorNEW.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Login.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Main.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.New_invoice.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Properties.Resources.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Splsh_Screen.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.User_Account.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Suppliers.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Customer.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_item.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Customer_Order.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Requst_Order.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Warranty_Details.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.warranty_newItem.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.wty_dtail_Conplete.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory_System.wty_dtail_inconplete.resources
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\RdlCompile.cache
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\RdlCompile.compiled
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory System.exe
+E:\Version 1.0 original all k\Inventory System\Inventory System\obj\x86\Release\Inventory System.pdb
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\bin\Release\Inventory System.exe.config
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\bin\Release\InventoryDB.mdf
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\bin\Release\InventoryDB_log.ldf
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\bin\Release\Inventory System.exe
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\bin\Release\Inventory System.pdb
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.About_Sharp_Creations.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItemList1.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItmList2.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItmList3.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Uc_recovary.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Main_account.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_sal_history.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_sal_Month.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_Sallery.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Change_saery_target.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Advance_Customer.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Month_payroll.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.paysheet_histry.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Paysheet_month.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Tget_settings.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOdr1.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOdr2.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Set_ref_salary_taget.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.update_User_Dtail.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Item_change_Conform.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_reqst_odr.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Report_main.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceivedStock.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_StockLeval.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_CusOrder.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_CustomerList.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItemList.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOrder.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReturnItem.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_SalesRefList.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_SupplierList.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_WarrantyItem.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_PriceList.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales1.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales2.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales3.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income1.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income2.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceiveStock1.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceiveStock2.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Froget_Login.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.User_Details.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_admin_detail.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Return_stock_item.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Return_New_item.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Warranty.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Customer_Account.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_findItem.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoic_findCus.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_Details.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Receive_Stock.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edti_Items.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Item_Details.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Manage_Item_details.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Log_main.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Customer_order.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Receive_Strock.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Customer.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Supplier.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Request_Order.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Supplier.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_customer.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Items.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Bill.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_Customer.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_Invoice.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_item.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_Histry.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Supplier_Account.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.updte_cus_order.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.AdministratorNEW.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Login.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Main.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.New_invoice.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Properties.Resources.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Splsh_Screen.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.User_Account.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Suppliers.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Customer.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_item.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Customer_Order.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Requst_Order.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Warranty_Details.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.warranty_newItem.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.wty_dtail_Conplete.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory_System.wty_dtail_inconplete.resources
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\RdlCompile.cache
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\RdlCompile.compiled
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory System.exe
+F:\Inventory Control Version 1.0\Inventory System\Inventory System\obj\x86\Release\Inventory System.pdb
+H:\Inventory\Inventory System\Inventory System\bin\Release\InventoryDB.mdf
+H:\Inventory\Inventory System\Inventory System\bin\Release\InventoryDB_log.ldf
+H:\Inventory\Inventory System\Inventory System\bin\Release\InventoryDB_tmp.mdf
+H:\Inventory\Inventory System\Inventory System\bin\Release\InventoryDB_tmp_log.ldf
+H:\Inventory\Inventory System\Inventory System\bin\Release\Inventory System.exe.config
+H:\Inventory\Inventory System\Inventory System\bin\Release\Inventory System.exe
+H:\Inventory\Inventory System\Inventory System\bin\Release\Inventory System.pdb
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.About_Sharp_Creations.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItemList1.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Restor.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItmList2.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItmList3.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Uc_recovary.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Main_account.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_sal_history.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_sal_Month.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Get_Sallery.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Change_saery_target.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Advance_Customer.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Month_payroll.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.paysheet_histry.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Paysheet_month.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Tget_settings.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOdr1.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOdr2.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Set_ref_salary_taget.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.update_User_Dtail.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Item_change_Conform.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_reqst_odr.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Report_main.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceivedStock.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_StockLeval.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_CusOrder.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_CustomerList.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ItemList.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_RequestOrder.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReturnItem.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_SalesRefList.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_SupplierList.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_WarrantyItem.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_PriceList.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales1.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales2.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Sales3.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income1.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_Income2.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceiveStock1.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Rpot_ReceiveStock2.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Froget_Login.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.User_Details.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_admin_detail.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Return_stock_item.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Return_New_item.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Warranty.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Customer_Account.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_findItem.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoic_findCus.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_Details.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Receive_Stock.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edti_Items.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Item_Details.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Manage_Item_details.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Log_main.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Customer_order.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Receive_Strock.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Customer.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Edit_Supplier.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Request_Order.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Supplier.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_customer.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Add_Items.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Bill.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_Customer.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_Invoice.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Find_item.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Invoice_Histry.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Supplier_Account.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.updte_cus_order.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.AdministratorNEW.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Login.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Main.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.New_invoice.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Properties.Resources.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Splsh_Screen.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.User_Account.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Suppliers.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Customer.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_item.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Customer_Order.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.View_Requst_Order.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.Warranty_Details.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.warranty_newItem.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.wty_dtail_Conplete.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory_System.wty_dtail_inconplete.resources
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\RdlCompile.cache
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\RdlCompile.compiled
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory System.exe
+H:\Inventory\Inventory System\Inventory System\obj\x86\Release\Inventory System.pdb
